@@ -1,9 +1,9 @@
-<h1 align="center">Hi 👋, I'm fazrina-mz</h1>
-<h3 align="center">A passionate frontend developer from Malaysia</h3>
+<h1 align="center">Hi 👋, I'm Dr Nurfazrina Mohd Zamry</h1>
+<h3 align="center">Senior Lecturer from Malaysia</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fazrina-mz&label=Profile%20views&color=0e75b6&style=flat" alt="fazrina-mz" /> </p>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me: <a href="https://www.linkedin.com/in/nurfazrina-mohd-zamry-0b971255/" target="_blank" rel="noreferrer"></h3>
 <p align="left">
 </p>
 
